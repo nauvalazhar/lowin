@@ -17,11 +17,11 @@ For the safety of the earth and the rest, don't like our Facebook page and don't
 - More
 
 # Demo
-[primary](https://itskodinger.github.io/lowin/index.html) | 
-[blue](https://itskodinger.github.io/lowin/blue.html) | 
-[red](https://itskodinger.github.io/lowin/red.html) | 
-[green](https://itskodinger.github.io/lowin/green.html) | 
-[purple](https://itskodinger.github.io/lowin/purple.html)
+[primary](https://nauvalazhar.github.io/lowin/index.html) | 
+[blue](https://nauvalazhar.github.io/lowin/blue.html) | 
+[red](https://nauvalazhar.github.io/lowin/red.html) | 
+[green](https://nauvalazhar.github.io/lowin/green.html) | 
+[purple](https://nauvalazhar.github.io/lowin/purple.html)
 
 # License
 MIT License
